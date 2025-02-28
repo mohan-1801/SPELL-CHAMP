@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:spell_champ/core/configs/theme/app_colors.dart';
 import 'package:spell_champ/common/widgets/botton/basic_app_botton.dart';
-import 'package:spell_champ/presentation/splash/pages/Login_screen.dart';
-import 'package:spell_champ/presentation/splash/pages/Signup_screen.dart';
+import 'package:spell_champ/login_screen.dart';
+import 'package:spell_champ/signup_screen.dart';
 
 
 class WelcomeScreen extends StatelessWidget {

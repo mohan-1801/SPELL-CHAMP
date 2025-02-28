@@ -6,7 +6,7 @@ import 'package:spell_champ/core/configs/theme/app_colors.dart';
 class AppTheme {
   static final lightTheme = ThemeData(
     scaffoldBackgroundColor: AppColors.background,
-    brightness: Brightness.light,
+    
     elevatedButtonTheme: ElevatedButtonThemeData(
       style: ElevatedButton.styleFrom(
         backgroundColor: Colors.white,
@@ -16,9 +16,15 @@ class AppTheme {
           fontSize: 25,
           fontWeight: FontWeight.bold,
 
+
           
         ),
-        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
+        elevation: 8, // Shadow elevation
+        
+        shadowColor: Colors.black,
+        
+        
       ),
     ),
     inputDecorationTheme: InputDecorationTheme(

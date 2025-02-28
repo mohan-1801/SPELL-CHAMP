@@ -22,8 +22,7 @@ class BasicAppBotton extends StatelessWidget{
     return ElevatedButton(
       onPressed:onPressed,
       style: ElevatedButton.styleFrom(
-       backgroundColor: color ?? AppColors.white
-       
+       backgroundColor: color ?? AppColors.white,
         
       ),
     
@@ -61,7 +60,7 @@ class SignupButton extends StatelessWidget{
     
       child: Text(
         title,
-      style: const TextStyle(color: AppColors.white),
+      style: const TextStyle(color: Color.fromARGB(255, 255, 255, 255)),
       )
     );
   }
