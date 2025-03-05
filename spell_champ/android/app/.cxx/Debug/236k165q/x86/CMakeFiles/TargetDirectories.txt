@@ -1,0 +1,2 @@
+D:/New folder/SPELL-CHAMP/spell_champ/android/app/.cxx/Debug/236k165q/x86/CMakeFiles/edit_cache.dir
+D:/New folder/SPELL-CHAMP/spell_champ/android/app/.cxx/Debug/236k165q/x86/CMakeFiles/rebuild_cache.dir

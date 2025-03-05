@@ -1,0 +1,2 @@
+D:/New folder/SPELL-CHAMP/spell_champ/android/app/.cxx/Debug/236k165q/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/New folder/SPELL-CHAMP/spell_champ/android/app/.cxx/Debug/236k165q/armeabi-v7a/CMakeFiles/rebuild_cache.dir
